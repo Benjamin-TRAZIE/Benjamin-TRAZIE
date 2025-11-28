@@ -106,9 +106,9 @@ Refonte complète sur **Wix** avec système de réservation de rendez-vous médi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark&bg_color=161616&title_color=FFFFFF&text_color=716F6E&icon_color=FFFFFF&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benjamin-TRAZIE&show_icons=true&theme=dark&bg_color=161616&title_color=FFFFFF&text_color=716F6E&icon_color=FFFFFF&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark&bg_color=161616&title_color=FFFFFF&text_color=716F6E&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-TRAZIE&layout=compact&theme=dark&bg_color=161616&title_color=FFFFFF&text_color=716F6E&hide_border=true)
 
 </div>
 
