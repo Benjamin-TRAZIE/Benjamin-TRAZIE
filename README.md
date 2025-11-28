@@ -58,7 +58,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vercel,bash,docker,linux&theme=dark" />
 
 ###  Design Suite
-<img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,canva&theme=dark" />
 
 </div>
 
