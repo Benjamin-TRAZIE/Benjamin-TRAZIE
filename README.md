@@ -33,7 +33,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=161616&color=FFFFFF&line=716F6E&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-TRAZIE&bg_color=161616&color=FFFFFF&line=716F6E&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 </div>
 
 <br>
@@ -89,20 +89,10 @@
 
 <!-- Project Showcase -->
 <details>
-<summary><h2>🚀 Featured Projects</h2></summary>
+<summary><h2> Featured Projects</h2></summary>
 
 <div align="center">
 
-### 🌐 YOWL - Social Network
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-TRAZIE&repo=yowl&theme=dark&bg_color=161616&title_color=FFFFFF&text_color=716F6E&icon_color=FFFFFF&hide_border=true)](https://github.com/TON_USERNAME/yowl)
-
-**Stack:** Laravel • Vue.js • MySQL  
-*Community-driven social platform with real-time interactions*
-
----
-
-### 🛒 My Shop - E-Commerce
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-TRAZIE&repo=myshop&theme=dark&bg_color=161616&title_color=FFFFFF&text_color=716F6E&icon_color=FFFFFF&hide_border=true)](https://github.com/TON_USERNAME/myshop)
 
 **Stack:** PHP • Bootstrap • MySQL  
 *Full-featured online shopping platform*
