@@ -11,9 +11,10 @@
 </p>
 
 
-<br>
-<br>
+
 <div align="center">
+<br>
+<br>
 
 <!-- Social Badges with Animation -->
 [![Email](https://img.shields.io/badge/📧_Email-benjamin.trazie@epitech.eu-161616?style=for-the-badge&labelColor=716F6E)](mailto:benjamin.trazie@epitech.eu)
