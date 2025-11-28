@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Century+Schoolbook&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=16161600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Je+donne+vie+%C3%A0+vos+id%C3%A9es+%F0%9F%A6%89;Transforming+Ideas+into+Digital+Reality+%F0%9F%94%91;Building+Tomorrow's+Web+Today+%E2%9A%A1" alt="Typing SVG" />
 </p>
+<br/>
 
 <div align="center">
 
