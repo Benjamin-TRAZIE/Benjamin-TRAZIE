@@ -9,8 +9,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Century+Schoolbook&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=16161600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Je+donne+vie+%C3%A0+vos+id%C3%A9es+%F0%9F%A6%89;Transforming+Ideas+into+Digital+Reality+%F0%9F%94%91;Building+Tomorrow's+Web+Today+%E2%9A%A1" alt="Typing SVG" />
 </p>
-<br/>
 
+
+<br>
+<br>
 <div align="center">
 
 <!-- Social Badges with Animation -->
@@ -41,7 +43,7 @@
 
 <!-- Animated Skills Section -->
 <details open>
-<summary><h2>⚡ Tech Arsenal</h2></summary>
+<summary><h2> Tech Arsenal</h2></summary>
 
 <div align="center">
 
@@ -95,46 +97,9 @@
 <div align="center">
 
 
-**Stack:** PHP • Bootstrap • MySQL  
-*Full-featured online shopping platform*
-
----
-
-###  Les Buanderies Modernes
-**Stack:** Next.js • Nest.js • MongoDB  
-*Smart booking system for laundry services*
-
----
-
-###  La Santé Chez Vous
-**Stack:** Wix • Custom Integrations  
-*Home healthcare appointment platform*
-
-</div>
-
-</details>
-
 <br>
 
-<!-- Coding Activity -->
-<details>
-<summary><h2> Weekly Development Breakdown</h2></summary>
 
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-```text
-TypeScript   ████████████░░░░░   55%
-JavaScript   ██████░░░░░░░░░░░   28%
-PHP          ████░░░░░░░░░░░░░   15%
-Other        █░░░░░░░░░░░░░░░░    2%
-```
-
-</div>
-
-</details>
 
 <br>
 
