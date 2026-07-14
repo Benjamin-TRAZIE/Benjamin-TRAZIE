@@ -19,7 +19,7 @@
 <!-- Social Badges with Animation -->
 [![Email](https://img.shields.io/badge/📧_Email-benjamin.trazie@epitech.eu-161616?style=for-the-badge&labelColor=716F6E)](mailto:benjamin.trazie@epitech.eu)
 [![Phone](https://img.shields.io/badge/📱_Phone-+225_01_53_27_54_36-161616?style=for-the-badge&labelColor=716F6E)](tel:+22501532754336)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-161616?style=for-the-badge&labelColor=716F6E)](https://traziebenjamin.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Online-161616?style=for-the-badge&labelColor=716F6E)](https://traziebenjamin.vercel.app)
 
 </div>
 
